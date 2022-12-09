@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'fazdireito' );
 
 /** Database username */
-define( 'DB_USER', 'admincogna' );
+define( 'DB_USER', 'devUser' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'szb9iaAM6Ao-L8g11d98uwGh' );
+define( 'DB_PASSWORD', 'pInB7-D7-Hx-G795' );
 
 /** Database hostname */
 define( 'DB_HOST', 'cognablogs-db.ci9niqaqsefm.us-east-1.rds.amazonaws.com' );
