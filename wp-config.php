@@ -82,7 +82,11 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
-
+define( 'AS3CF_SETTINGS', serialize( array(
+	'provider' => 'aws',
+	'access-key-id' => 'AKIAT3OY4HQENLKKPYHM',
+	'secret-access-key' => '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',
+) ) );
 
 
 /* That's all, stop editing! Happy publishing. */
